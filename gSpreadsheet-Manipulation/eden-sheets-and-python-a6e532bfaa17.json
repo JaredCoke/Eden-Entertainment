@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eden-sheets-and-python",
+  "private_key_id": "a6e532bfaa17101d89d5d55120a9be055b31d190",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9HepM9lESe7Rd\n6bkaihJrL9rqGqRtmI1alJlt06slahaQ4D9dp1coMwRGX161Pjx1JdGhHCDlcABS\nsRPp/53ft1M4n2qpT/6MoqUOGm/goqt8yCtEkv8M1hL3DKm27evQHaKpcePoJA+A\nx9LdoCdIzSAnfBPtWSXROaPTpuy4OuUvB1RiRGvkPgKvc4X4J5CCOmH1ZhxmSJSg\naCCSgY5YWrH5bIQy0j4faF5/VPeJvndraZd/36RVvtdWBgUirDNuYNqUGmFo5MoM\n6wzvLeyH9bD7uspS4AE+ydGxauunXj4iZSfks5BY4CBdksrj4chSUbYgjjdqq1ZG\n69H0gtFpAgMBAAECggEAJ8dYFjIlYWblzG8yATQTpboeKOnLtkXFTc097Iz+TdNf\nxb91dKSTP6BjgM3kpOjfXKDE1EePX9NMLhiTIMAkm/76oUle7Rgnabt4TlwfNjfh\nLFEKUNU+kpugx5hBRnoLBO6G3W9YSebz39moL/fU64pB/iwqIN2Eh9rA6+8LkcBs\nrt5o3aIZIMF0e+RiLQEAvnRqQ7hB20y4ZlnbDY4a0/AcEAQqOwhgqwiyQudax623\nCtp3p+Air+e8ZdLJ32/4uhoxmDsM3F8AuTaQ6tu4wCrM4EVmTvFAh6NSCugedp54\nYBLi5bgvR8CK4sGwdNs+zDGw2nnNRFROGQqsRMozpQKBgQDwrJc+CxNUvfvFE3Jy\nOWeJyi/nLW/+C0q81FK1RwIUG5gu5Yieqm55WYlm677LxER9+wCQPvvfOOeC+TCY\nxQDrWjBMgF5/ZiDsLvd3gt8wkGou6KgNaXT5h3suPBrKXwUsnvkzNKoRPaEr8UoK\nGpEKTaJYD62nkvFYCCMqfsPLAwKBgQDJKNmcs0kbZ6eYozZRlDzrmM086zyHXRRR\nwESQK0sGsDdg9emco2YreyKFyAm5nYoxJCrOa40NTApgFsygV3giXCdGcPKqU8+j\njOJUMbRXzCvw/0pBExlwegHkD+5wrZkG1/Od6cEDpe/P8bSb5PkYD3v2WCPi3uvi\nn7WrPWSwIwKBgDfA47B9xFanREHdRW/smG21Ju+4+O6zEvc3gIl6D6M02UZT6hhH\nhxwZf9kV17dAmlVM5k6EKLkHZ6pRq85YJORgmju+qSV+NTZBkxZefPG1IsQHJZcl\nzPFZT1Hgnpwu8vXpRfV0x8kCq+mQFgTNLrhiT69ywlnFkp9AE1Vu1FCdAoGAF0Aw\nfus+HPvLJFphEebXb8fWmR77fQ3mJljZ0+wdHOXLUNq7qM4+JfJymBH6BclOysVK\naVeHEy1h2Z9pAXN6wEX0iDDP654KVvYWxvKDzM4dmhp347Oocha4Fzs8LSvzjxXw\n46S8GYbZhCiE3qwFmqFXi66+Xx+zFhutrOBIvg8CgYA9udJpnZxNTqphB/vyuZJi\nwcPK6LLbp99iKM/2vvK+wUzo48wVYHwAcYGOyyEU8M595hsOUyix2KL/2NBQMmf+\n7JfPpOxOLaAE/uWQ5HqV3XVOIkPiw1Vpng/OaoqSexdM7DdaKyMpgmZu5oXUopel\nrK8NOXqUTT4H6YdoLczpLw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "eden-service-account@eden-sheets-and-python.iam.gserviceaccount.com",
+  "client_id": "107708980316066884535",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eden-service-account%40eden-sheets-and-python.iam.gserviceaccount.com"
+}
